@@ -5,8 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a>Hello World!</a>
+        <a>Hello world!</a>
+        <div style={{width:500, height:100, border:1, "background-color":'green'}}><a>This is a rectangle!</a></div>
       </header>
+      
     </div>
     /*<div className="App">
       <header className="App-header">
